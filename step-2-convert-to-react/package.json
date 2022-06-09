@@ -1,0 +1,21 @@
+{
+  "name": "step-2-convert-to-react",
+  "version": "1.0.0",
+  "description": "In this folder is the start of a `parcel` built `React` application. Let's take the HTML and CSS from the end of Step 1 and convert it into a `React` project!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
